@@ -49,10 +49,10 @@ Verifica:
 - Conectividad con servicios internos
 - Configuración activa
 
-### **POST /process/text**
+### **POST /analyze-text**
 Recibe solicitudes de procesamiento de texto y las redirige al servicio de texto interno.
 
-### **POST /process/audio**
+### **POST /analyze-audio**
 Recibe archivos de audio y los redirige al servicio de transcripción interno.
 
 ---
